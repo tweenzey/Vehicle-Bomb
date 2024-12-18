@@ -48,4 +48,4 @@ A comprehensive and immersive script for the **QBCore** framework that allows pl
 1. **🔽 Download the Script**:
    - Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/your-repo/carbomb.git
+   git clone https://github.com/tweenzey/Vehicle-Bomb/tree/main
