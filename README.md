@@ -3,7 +3,8 @@
 A comprehensive and immersive script for the **QBCore** framework that allows players to place and defuse bombs on vehicles. Enhance your FiveM server's gameplay by introducing high-stakes mechanics where players can strategically use explosives to impact other players' vehicles.
 
 ---
-
+PREVIEW: https://www.youtube.com/watch?v=Xd-39bGwnLs&t=22s
+TEBEX: https://yugoz.tebex.io/package/6590881
 ## 📜 Table of Contents
 
 - [✨ Features](#✨-features)
